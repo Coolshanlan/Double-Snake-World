@@ -1,4 +1,4 @@
-# D
+# Double Snake World
 Assembly Final Project 
 ## How to Use
 p1 : `w a s d`
