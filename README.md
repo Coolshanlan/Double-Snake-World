@@ -4,7 +4,7 @@ Assembly Final Project
 ## Screenshot
 Teu ==yellow== one is `P2`
 
-![](https://github.com/Coolshanlan/Double-Snake-Workd/blob/master/demo_image/Game.png)
+![](https://github.com/Coolshanlan/Double-Snake-World/blob/master/demo_image/Game.png?raw=true)
 ## How to Use
 p1 : `w a s d`
 
